@@ -1,0 +1,201 @@
+.principal
+{
+    background-color: aqua;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1000px;
+    height: 600px;
+    margin: auto;
+
+} 
+
+.caja1 
+{
+    background-color: pink;
+    width: 300px;
+    height: 550px;
+    margin: 5px;
+    float: left;
+    position: absolute;
+    display: flex;
+    flex-direction: initial;
+}
+.cuadradito
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+    width: 50px;
+    height: 70px;
+    position: relative;
+    margin: 5px;
+    right: -50px;
+}
+.caja2
+{
+    background-color: blue;
+    width: 300px;
+    height: 550px;
+    margin: 5px;
+    float: left;
+    position: absolute;
+    right: 630px;
+    display: flex;
+    flex-direction: initial;
+}
+.caja3
+{
+    background-color:lightcyan;
+    width: 300px;
+    height: 550px;
+    margin: 5px;
+    float: left;
+    position: absolute;
+    right: 300px;
+    display: flex;
+    flex-direction: initial;
+}
+.cuadradito1
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+    width: 50px;
+    height: 70px;
+    position: relative;
+    margin: 5px;
+    right: -300px;
+}
+.rectangulo
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: hotpink;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    margin: 5px;
+    right: 720px;
+    top: 100px;
+}
+.rectangulo1
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: hotpink;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    margin: 5px;
+    right: 720px;
+    top: 10px;
+}
+.rectangulo2
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: hotpink;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    margin: 5px;
+    right: 720px;
+    top: 200px;
+}
+.rectangulo3
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: hotpink;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    margin: 5px;
+    right: 720px;
+    top: 300px;
+}
+.rectangulo0x1
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: hotpink;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    margin: 5px;
+    right: 1050px;
+    top: 100px;
+}
+.rectangulo1x1
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: hotpink;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    margin: 5px;
+    right: 1050px;
+    top: 200px;
+}
+.rectangulo2x1
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: hotpink;
+    width: 160px;
+    height: 70px;
+    position: absolute;
+    margin: 5px;
+    right: 1050px;
+    top: 300px;
+}
+.cuadradito2
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+    width: 50px;
+    height: 70px;
+    position: relative;
+    margin: 5px;
+    right: 170px;
+    top: 400px;
+}
+.contenedor
+{
+    background-color: chocolate;
+    width: 100px;
+    height: 250px;
+    margin: auto;
+    position:absolute;
+    right: 1px;
+    top: 100px;
+    display: flex;
+    flex-direction: initial;
+}
+.cuadraditoxc
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+    width: 50px;
+    height: 70px;
+    position: relative;
+    margin: 5px;
+    right: -10px;
+    top: 10px;
+}
+.cuadradito1xc
+{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+    width: 50px;
+    height: 70px;
+    position: relative;
+    margin: 5px;
+    right: -10px;
+    top: 20px;
+}
